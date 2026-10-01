@@ -1,0 +1,3 @@
+# Cópia de visualização: não indexar. O site oficial fica no domínio da Conserv I9.
+User-agent: *
+Disallow: /
